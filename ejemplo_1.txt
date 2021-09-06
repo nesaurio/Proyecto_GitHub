@@ -1,2 +1,17 @@
+Experimento raro
 Esta es la versión oficial
 Ahora está en github
+
+Exp 1
+
+<<<<<<< HEAD
+Ejemplo master
+=======
+Exp 2.0
+
+Exp 3.0
+
+Mundo alternativo
+
+Linea de relleno 2
+>>>>>>> ae47d19... exp chpk 2
